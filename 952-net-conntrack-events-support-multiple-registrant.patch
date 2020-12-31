@@ -1,4 +1,4 @@
---- a/include/net/netfilter/nf_conntrack_ecache.h
+qweqweqweqe--- a/include/net/netfilter/nf_conntrack_ecache.h
 +++ b/include/net/netfilter/nf_conntrack_ecache.h
 @@ -71,6 +71,10 @@ struct nf_ct_event {
  	int report;
